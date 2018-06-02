@@ -1,0 +1,2 @@
+# RoseRaid
+RoseRaidBot
